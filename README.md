@@ -1,14 +1,14 @@
-# rchart.js - ripple-chart
+# dchart.js - divvy-chart
 
 ## Usage
 
 Run as a web server:
 
-    rchart.js perform
+    dchart.js perform
 
 Initialize dbs:
 
-     rchart.js reset
+     dchart.js reset
 
 ## Theory
 
